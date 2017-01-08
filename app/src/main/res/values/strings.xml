@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneOwner</string>
+    <string name="action_settings">设置</string>
+    <string name="action_exit">退出</string>
+</resources>
